@@ -1,2 +1,3 @@
-# CNN_Intent_Classification
-CNN for intent classification task in Chatbot
+# Intent Classification in a ChatBot using Convolutional Neural Networks 
+
+
