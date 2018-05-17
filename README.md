@@ -20,7 +20,7 @@ I was able to achive 99% accuracy on training and validation dataset within a mi
 
 Intent classification and named entity recognition are the two most important parts while making a goal oriented chatbot.
 
-There are many open source python packages for making  a chatbot, Rasa  is one of them. The cool thing about Rasa is that every part of the stack is fully customizable and easily interchangeable. Although Rasa has an excellent built in support for intent classification task but one can also specify their own model for the task, check [Processing Pipeline](https://nlu.rasa.com/pipeline.html) for more information on it. 
+There are many open source python packages for making  a chatbot, Rasa  is one of them. The cool thing about Rasa is that every part of the stack is fully customizable and easily interchangeable. Although Rasa has an excellent built in support for intent classification task but we can also specify our own model for the task, check [Processing Pipeline](https://nlu.rasa.com/pipeline.html) for more information on it. 
 
 
 ## Resources
