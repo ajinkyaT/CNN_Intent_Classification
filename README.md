@@ -14,7 +14,7 @@ $ python prepare_data.py
 
 Check [Intent_Classification_Keras_Glove.ipynb](https://github.com/ajinkyaT/CNN_Intent_Classification/blob/master/Intent_Classification_Keras_Glove.ipynb) for the model building and training part.
 
-I was able to achive 99% accuracy on training and validation dataset within a minute after 3 epochs when trained on a regular i7 CPU.
+Although RNN's like LSTM and GRU are widely used for language modelling tasks but CNN's have also prove to be quite faster to train owing to data parallelization while training and give better results than the LSTM ones. [Here](https://github.com/brightmart/text_classification#performance) is brief comparison between different methods to solve sentence classification, as can be seen TextCNN gives best result of all and also trains faster. I was able to achive 99% accuracy on training and validation dataset within a minute after 3 epochs when trained on a regular i7 CPU.
 
 #### What lies ahead?
 
