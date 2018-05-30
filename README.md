@@ -12,7 +12,7 @@ To prepare the dataset, from the main project's directory, open terminal and typ
 $ python prepare_data.py
 ```
 
-Check [Intent_Classification_Keras_Glove.ipynb](https://github.com/ajinkyaT/CNN_Intent_Classification/blob/master/Intent_Classification_Keras_Glove.ipynb) for the model building and training part. Below is model overview. 
+Check [Intent_Classification_Keras_Glove.ipynb](https://github.com/ajinkyaT/CNN_Intent_Classification/blob/master/Intent_Classification_Keras_Glove.ipynb) for the model building and training part. Below is the model overview. 
 
 ![image](https://github.com/brightmart/text_classification/raw/master/images/TextCNN.JPG "TextCNN")
 
