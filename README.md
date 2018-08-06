@@ -35,6 +35,6 @@ There are many open source python packages for making  a chatbot, Rasa  is one o
 [A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification
 ](https://arxiv.org/abs/1510.03820)
 
-
+[An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling](https://arxiv.org/abs/1803.01271)
 
 
