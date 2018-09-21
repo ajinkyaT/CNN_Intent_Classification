@@ -1,6 +1,6 @@
 # Intent classification for a chatbot using Convolutional Neural Networks
 
-This is Keras implementation for the task of sentence classification using CNNs. This work was done as a part of [Midterm Assignment](https://github.com/llSourcell/AI_for_Resumes) given by Siraj Raval. Here's his great [video](https://youtu.be/p3SKx5C04qg) explaining Natural Language Processing applied to resume screening.
+This is Keras implementation for the task of sentence classification using CNNs. This work took inspiration from [Midterm Assignment](https://github.com/llSourcell/AI_for_Resumes) given by Siraj Raval. Here's his cool [video](https://youtu.be/p3SKx5C04qg) explaining Natural Language Processing applied to resume screening.
 
 Dataset for the above task was obtained from the project [Natural Language Understanding benchmark ](https://github.com/snipsco/nlu-benchmark/tree/master/2017-06-custom-intent-engines)
 
